@@ -21,7 +21,7 @@ The bank aims to:
 
 ![Data Preprocessing - Correlation](images/data_preprocessing_correlation.png)
 
-### 2. Customer Response Prediction
+### 2. Customer Response Prediction 
 - **Technique Used**: Trained machine learning models (Random Forest) to predict customer responses (subscribed or not).
 - **Outcome**: The Random Forest model was the best performer with an AUC score of 0.76, showing significant improvement in customer classification.
 
