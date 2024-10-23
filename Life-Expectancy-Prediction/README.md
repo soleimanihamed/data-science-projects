@@ -36,16 +36,21 @@ The aim of this analysis is to support the **World Health Organization (WHO)** b
 - **Data Privacy**: All data is aggregated and anonymised, with no personal information involved.
 - **Responsible Use of Findings**: The findings should be used to inform policies and health interventions to promote improved life expectancy globally, especially in developing countries.
 
-## Files in the Repository:
-- **`datasets`**: The folder containing the datasets used in the analysis.
-- **` Life Expectancy Data_Original.xlsx`**: The original file
-- **` Life Expectancy Data_cleaned.xlsx`**: The cleaned file
-- **`analysis/`**: Contains life expectancy time series analysis files.
-- **`forcasting_developed_countries.spv`**: SPSS output file containing time series forecasting for developed countries.
-- **`forcasting_developing_countries.spv`**: SPSS output file containing time series forecasting for developing countries.
-- **`images/`**: This folder contains graphs and visualisations of the analysis results.
-  
 ## Conclusion
 This project illustrates how statistical analysis can be effectively used to explore factors influencing life expectancy globally. By employing statistical techniques such as ANOVA, regression analysis, and time series forecasting, valuable insights can be drawn to help inform health policies and improve life expectancy outcomes in different regions.
+
+## Final Report
+The complete final report, including detailed analysis, findings, and recommendations, is available here: [Life Expectancy Analysis Report]( Life_Expectancy_Analysis_Report.pdf).
+
+-----
+
+## Files in the Repository:
+- **`datasets/`**: The folder containing the datasets used in the analysis.
+  - **`Life Expectancy Data_Original.xlsx`**: The original dataset file.
+  - **`Life Expectancy Data_Cleaned.xlsx`**: The cleaned dataset file.
+- **`analysis/`**: Contains life expectancy time series analysis files.
+  - **`forecasting_developed_countries.spv`**: SPSS output file containing time series forecasting for developed countries.
+  - **`forecasting_developing_countries.spv`**: SPSS output file containing time series forecasting for developing countries.
+- **`images/`**: This folder contains graphs and visualisations of the analysis results.
 
 
