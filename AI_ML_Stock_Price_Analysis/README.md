@@ -35,7 +35,11 @@ The research aims to:
 - **Results**: GRU had the lowest RMSE across all three companies, showing the highest predictive accuracy.
 - **Insights**: Long-term upward trends were observed for all companies, with no significant seasonal patterns.
 
-![Model Performance Comparison](images/Model_Performance_Comparison.png)
+| **Models**     | **Alphabet** (RMSE, MAE) | **Meta** (RMSE, MAE)   | **Microsoft** (RMSE, MAE)  |
+|----------------|--------------------------|------------------------|----------------------------|
+| **ARIMA-GARCH**| (41.6175, 39.7798)        | (274.6141, 273.5990)    | (133.7888, 133.4012)        |
+| **GRU**        | (5.9912, 5.2584)          | (22.3640, 18.0397)      | (10.7544, 9.1580)           |
+
 
 ## Data Sources
 - Historical stock price data for Alphabet, Meta, and Microsoft was sourced from Yahoo Finance.
