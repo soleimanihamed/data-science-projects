@@ -3,7 +3,7 @@
 ## Overview
 This project investigates the potential of time series analysis in predicting trends in the stock prices of three leading AI and Machine Learning companies: **Alphabet (Google)**, **Meta (Facebook)**, and **Microsoft**. The primary goal is to assess the effectiveness of various time series models in forecasting stock prices, providing valuable insights for both investors and companies.
 
-The project was conducted as part of my MSc in Business Analytics dissertation. It involved using models such as **Exponential Smoothing**, **ARIMA**, **ARIMA-GARCH**, **Recurrent Neural Network (RNN)**, **Long Short-Term Memory (LSTM)**, and ** Gated Recurrent Unit (GRU)** to analyse long-term and seasonal trends and forecast future stock movements. **All analysis was conducted using Python, with some additional tasks performed in Excel.**
+The project involves using models such as **Exponential Smoothing**, **ARIMA**, **ARIMA-GARCH**, **Recurrent Neural Network (RNN)**, **Long Short-Term Memory (LSTM)**, and ** Gated Recurrent Unit (GRU)** to analyse long-term and seasonal trends and forecast future stock movements. **All analysis is conducted using Python, with some additional tasks performed in Excel.**
 
 ## Problem Statement
 The research aims to:
@@ -65,5 +65,5 @@ The findings of this project suggest that deep learning models, particularly GRU
   - **Model Performance Metrics**: Excel files containing the RMSE, MAE, and other evaluation metrics for each model.
   - **Detailed Analysis and Comparison**: Includes CSV and summary reports of the model comparisons, showing how each model performed across different companies.
 
-Additionally, the repository contains a [complete report](AI_ML_Stock_Price_Forecasting_Dissertation.pdf) with methodology, results, and insights from the project analysis.
+Additionally, the repository contains a [complete report](AI_ML_Stock_Price_Forecasting.pdf) with methodology, results, and insights from the project analysis.
 
