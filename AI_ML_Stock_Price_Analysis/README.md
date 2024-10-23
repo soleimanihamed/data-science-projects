@@ -65,5 +65,5 @@ The findings of this project suggest that deep learning models, particularly GRU
   - **Model Performance Metrics**: Excel files containing the RMSE, MAE, and other evaluation metrics for each model.
   - **Detailed Analysis and Comparison**: Includes CSV and summary reports of the model comparisons, showing how each model performed across different companies.
 
-Additionally, the repository contains a **complete report** with methodology, results, and insights from the project analysis.
+Additionally, the repository contains a [complete report](AI_ML_Stock_Price_Forecasting_Dissertation.pdf) with methodology, results, and insights from the project analysis.
 
