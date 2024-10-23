@@ -28,10 +28,15 @@ The aim of this analysis is to support the **World Health Organization (WHO)** b
 - **Developing vs Developed Countries**: A significant difference in life expectancy was found between developed and developing countries. Developed countries showed higher life expectancy rates, while developing countries experienced steady improvements over time.
 - **Impact of Education and Income**: Higher levels of schooling and income composition were positively correlated with increased life expectancy, while **HIV/AIDS prevalence** showed a negative correlation.
 - **Forecasting Results**: The ARIMA model predicted an increase in life expectancy for developing countries from **69.8 in 2015 to 70.9 in 2018**, while developed countries were forecasted to increase from **81.48 in 2015 to 82.39 in 2018**.
-  
+
+  **Developing Countries Forecasting:**
+
 ![LE Developing Countries Forecasting](images/LE_developing_countries_forecasting.png)
 
+**Developed Countries Forecasting:**
+
 ![LE Developed Countries Forecasting](images/LE_developed_countries_forecasting.png)
+
 
 ## Data Sources
 - The dataset was sourced from the **World Health Organization (WHO)** and covers data from 2000 to 2014 across multiple countries.
