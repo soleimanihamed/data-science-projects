@@ -5,6 +5,11 @@ This project investigates the key elements influencing **life expectancy (LE)** 
 
 The analysis was conducted using **SPSS**, utilising statistical techniques such as **ANOVA, regression analysis, correlation analysis**, and **time series forecasting** to provide insights and predict future trends in global life expectancy.
 
+
+## Main Report
+The complete main report, including detailed analysis, findings, and recommendations, is available here: [Life Expectancy Analysis Report]( Life_Expectancy_Analysis_Report.pdf).
+
+
 ## Problem Statement
 The aim of this analysis is to support the **World Health Organization (WHO)** by identifying the key factors influencing life expectancy, and to forecast future trends. The findings from this study can help guide future policies and interventions aimed at improving global health outcomes.
 
@@ -47,9 +52,6 @@ The aim of this analysis is to support the **World Health Organization (WHO)** b
 
 ## Conclusion
 This project illustrates how statistical analysis can be effectively used to explore factors influencing life expectancy globally. By employing statistical techniques such as ANOVA, regression analysis, and time series forecasting, valuable insights can be drawn to help inform health policies and improve life expectancy outcomes in different regions.
-
-## Final Report
-The complete final report, including detailed analysis, findings, and recommendations, is available here: [Life Expectancy Analysis Report]( Life_Expectancy_Analysis_Report.pdf).
 
 -----
 
