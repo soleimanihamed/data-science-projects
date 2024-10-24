@@ -5,6 +5,9 @@ In this project, I developed a data-driven solution to help optimise a bank's ma
 
 This project was done using **Alteryx** and includes steps for data preparation, model training, evaluation, and application of insights to improve decision-making. The output is a **PowerPoint presentation** that summarises the findings and provides recommendations for enhancing campaign effectiveness.
 
+## Main Project
+The complete 'Bank Marketing Analysis' project can be found in the presentation file [here](Bank_Marketing_Analysis.pdf).
+
 ## Problem Statement
 The bank aims to:
 - Boost campaign effectiveness by targeting potential subscribers.
@@ -41,8 +44,6 @@ The bank aims to:
   
 ## Conclusion
 This project provides a machine learning-based solution to enhance the bank's marketing campaign success by predicting customer responses and optimising resource allocation. The analysis offers valuable insights into customer behaviour that can drive data-informed decisions.
-
-The complete project can be found in the presentation file [here](Bank_Marketing_Analysis.pdf).
 
 ---
 
