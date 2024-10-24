@@ -5,6 +5,9 @@ This project investigates the potential of time series analysis in predicting tr
 
 The project involves using models such as **Exponential Smoothing**, **ARIMA**, **ARIMA-GARCH**, **Recurrent Neural Network (RNN)**, **Long Short-Term Memory (LSTM)**, and ** Gated Recurrent Unit (GRU)** to analyse long-term and seasonal trends and forecast future stock movements. **All analysis is conducted using Python, with some additional tasks performed in Excel.**
 
+## Main Report
+The main report contains a [complete report](AI_ML_Stock_Price_Forecasting.pdf) with methodology, results, and insights from the project analysis.
+
 ## Problem Statement
 The research aims to:
 - **Predict stock price trends**: Utilising time series models to uncover long-term and seasonal patterns in the stock prices of Alphabet, Meta, and Microsoft.
@@ -65,5 +68,5 @@ The findings of this project suggest that deep learning models, particularly GRU
   - **Model Performance Metrics**: Excel files containing the RMSE, MAE, and other evaluation metrics for each model.
   - **Detailed Analysis and Comparison**: Includes CSV and summary reports of the model comparisons, showing how each model performed across different companies.
 
-Additionally, the repository contains a [complete report](AI_ML_Stock_Price_Forecasting.pdf) with methodology, results, and insights from the project analysis.
+
 
